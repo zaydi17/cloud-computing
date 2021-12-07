@@ -1,4 +1,4 @@
 # Cloud Computing
 
 
-[Proposal](PROPOSAL.MD)
+Our project proposal: [Proposal](PROPOSAL.MD)
