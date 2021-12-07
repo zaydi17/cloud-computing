@@ -23,7 +23,7 @@ The third milestone consist of setting up the build and test stage of the CD pip
 
 ## Responsibilities
 Jakob:
-- Creation of calculator
+- creation of calculator
 - Docker build
 - deploy stage
 
