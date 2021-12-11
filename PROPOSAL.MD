@@ -1,6 +1,10 @@
 # Implement your own CD pipeline
 In our project we want to implement a CD pipeline with Jenkins X. For our demo application we are using a simple calculator because it is easy to test in the unit tests.
 
+## Jenkins X
+![concept image](https://jenkins-x.io/images/jx-arch.png)
+
+
 Our pipeline consists of 3 stages:
 - build
 - test
