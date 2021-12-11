@@ -1,9 +1,19 @@
 # Implement your own CD pipeline
-In our project we want to implement a CD pipeline with Jenkins X. For our demo application we are using a simple calculator because it is easy to test in the unit tests.
-
+In our project we want to implement a CD pipeline with Jenkins X. 
 ## Jenkins X
 ![concept image](https://jenkins-x.io/images/jx-arch.png)
 
+Jenkins X uses 7 key capatilities
+1. version control for all artifacts
+2. automated deployment process
+3. trunk-based development
+4. continous integration
+5. continous delivery
+6. loosley coupled architecture
+7. architect for empowered teams
+
+## Project
+For our demo application we are using a simple calculator because it is easy to test in the unit tests.
 
 Our pipeline consists of 3 stages:
 - build
