@@ -36,7 +36,7 @@ In this stage multiple units test for the application are executed.
 In this stage the tested calculator application get deployed on a kubernetes cluster.
 
 
-
+### Demonstrating Preview Environments
 We also want to show a Preview Environment demo, where a pull request is tested. 
 
 ## Milestones
