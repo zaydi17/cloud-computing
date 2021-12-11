@@ -6,11 +6,19 @@ In our project we want to implement a CD pipeline with Jenkins X.
 Jenkins X uses 7 key capabilities
 1. version control for all artifacts
 2. automated deployment process
+    - Git backend environments are created by Jenkins X during installation
+    - when creating new applications via quickstart, Jenkins X automatically adds CI/CD pipelines and sets up jobs, git repos and webhooks
+    - Preview Environments can be used to test Pull Requests
+      - Preview versions are built
+      - Automated experiments can be performed
+      - A percentage of the real production traffic can be directed to the Preview (shadow traffic or beta users)
+    - Permanent Environments for automated deployment
 3. trunk-based development
 4. continous integration
 5. continous delivery
 6. loosley coupled architecture
 7. architect for empowered teams
+    - automated CI/CD setup for many languages
 
 ## Project
 For our demo application we are using a simple calculator because it is easy to test in the unit tests.
