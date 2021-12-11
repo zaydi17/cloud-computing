@@ -3,7 +3,7 @@ In our project we want to implement a CD pipeline with Jenkins X.
 ## Jenkins X
 ![concept image](https://jenkins-x.io/images/jx-arch.png)
 
-Jenkins X uses 7 key capatilities
+Jenkins X uses 7 key capabilities
 1. version control for all artifacts
 2. automated deployment process
 3. trunk-based development
