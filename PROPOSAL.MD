@@ -54,8 +54,10 @@ Jakob:
 - creation of calculator
 - Docker build
 - deploy stage
+- Preview Environment
 
 Simon:
 - setup of Jenkins X
 - creating unit tests
 - deploy stage
+- Preview Environment
