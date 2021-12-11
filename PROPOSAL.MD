@@ -45,7 +45,7 @@ The second milestone consists of creating the unit tests for the calculator appl
 ### 3.Milestone
 The third milestone consists of setting up the build and test stage of the CD pipeline.
 ### 4.Milestone
-The fourth milestone consists of creating a Preview Environment demo from a pull request.
+The fourth milestone consists of creating a Preview Environment demo from a pull request and testing the request in it.
 
 ## Responsibilities
 Jakob:
