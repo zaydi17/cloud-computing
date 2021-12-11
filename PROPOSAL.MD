@@ -35,13 +35,17 @@ In this stage multiple units test for the application are executed.
 #### Deploy stage
 In this stage the tested calculator application get deployed on a kubernetes cluster.
 
+We also want to show Preview Environment demo, where a pull request is tested. 
+
 ## Milestones
 ### 1.Milestone
 The first milestone consists of setting up Jenkins X and creating the calculator application.
 ### 2.Milestone
 The second milestone consists of creating the unit tests for the calculator application.
 ### 3.Milestone
-The third milestone consist of setting up the build and test stage of the CD pipeline.
+The third milestone consists of setting up the build and test stage of the CD pipeline.
+### 4.Milestone
+The fourth milestone consists of creating a Preview Environment demo from a pull request.
 
 ## Responsibilities
 Jakob:
